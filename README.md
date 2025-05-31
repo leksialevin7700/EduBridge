@@ -36,3 +36,10 @@ EduBridge connects volunteer tutors with students from underserved communities b
 
 - 🧵 **Optional Forum:**  
   A Q&A space for peer discussion and community learning.
+
+  ---
+
+  ## 🔗 Project Visualization
+
+  Click here to visualize the project
+  (https://incredible-cobbler-7be9ae.netlify.app/)
